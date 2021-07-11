@@ -1,0 +1,14 @@
+{
+    "name": "Backoffice",
+    "short_name": "Backoffice",
+    "icons": [
+        {
+            "src": "/icons/backoffice/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#3e3e3e",
+    "background_color": "#3e3e3e",
+    "display": "standalone"
+}
